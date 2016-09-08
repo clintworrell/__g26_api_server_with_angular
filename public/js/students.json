@@ -1,0 +1,21 @@
+[{
+    "name": "Student 1",
+    "points": 5,
+    "image": "http://placekitten.com/200/200"
+}, {
+    "name": "Student 2",
+    "points": 2,
+    "image": "http://placekitten.com/300/200"
+}, {
+    "name": "Student 3",
+    "points": 5,
+    "image": "http://placekitten.com/200/500"
+}, {
+    "name": "Student 4",
+    "points": 10,
+    "image": "http://placekitten.com/200/400"
+}, {
+    "name": "Student 5",
+    "points": 5,
+    "image": "http://placekitten.com/500/500"
+}]

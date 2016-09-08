@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="row">
+    <h2>{{page.title}}</h2>
+    <div ng-repeat="student in students" ng-hide="student.grouped">
+      <gs-kitten-card></gs-kitten-card>
+      <div ng-repeat="group in groups">
+        <a class="btn btn-success" ng-click="addToGroup(group, student)">Add to {{group.title}}</a>
+      </div>
+    </div>
+  </div>
+</div>
